@@ -74,7 +74,3 @@ Below are key areas that are often overlooked but are crucial for writing profes
    ```bash
    cd python-best-practices
    ```
-3. Install dependencies (if applicable):
-   ```bash
-   pip install -r requirements.txt
-   ```
