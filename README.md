@@ -68,7 +68,7 @@ Below are key areas that are often overlooked but are crucial for writing profes
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/python-best-practices.git
+   git clone https://github.com/Volcann/Python-coding-standards.git
    ```
 2. Navigate to the project folder:
    ```bash
